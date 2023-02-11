@@ -30,4 +30,4 @@ Skills: HTML / CSS/BOOTSTRAP/JAVASCRIPT/REACT JS/WORDPRESS CUSTOMIZATION
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ismael-jabiullah)  
 
-![Profile views](https://gpvc.arturio.dev/ismael-jabiullah)  
+
